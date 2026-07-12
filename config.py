@@ -1,4 +1,3 @@
-from enum import Enum
 import tomllib
 from pathlib import Path
 
